@@ -26,4 +26,19 @@ class QueryBuilder
       
          
     }
+    public function edit()
+    {
+      
+         
+    }
+    public function delete()
+    {
+      
+         
+    }
+    public function read()
+    {
+      
+         
+    }
 }
